@@ -2,6 +2,8 @@
 
 A modern, feature-rich weather analytics web application built with React and Redux. This dashboard provides comprehensive weather information, forecasts, and interactive visualizations for multiple cities.
 
+🌐 **Live Demo**: [https://tap-talent-ai-assignment.vercel.app/](https://tap-talent-ai-assignment.vercel.app/)
+
 ![Weather Dashboard](https://img.shields.io/badge/React-19.2.0-blue) ![Redux](https://img.shields.io/badge/Redux-5.0.1-purple) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.18-38bdf8) ![Vite](https://img.shields.io/badge/Vite-7.2.4-646cff)
 
 ## 🌟 Features
@@ -115,6 +117,17 @@ TapTalent.AI/
 ├── vite.config.js          # Vite configuration
 └── README.md               # Project documentation
 ```
+
+## 🌐 Live Demo
+
+**Visit the deployed application**: [https://tap-talent-ai-assignment.vercel.app/](https://tap-talent-ai-assignment.vercel.app/)
+
+The application is deployed on Vercel and ready to use. You can explore all features including:
+- Search and add cities to favorites
+- View detailed weather analytics
+- Interactive charts and visualizations
+- Temperature unit conversion
+- Real-time weather updates
 
 ## 🚀 Installation & Setup
 
